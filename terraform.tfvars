@@ -1,0 +1,6 @@
+resource_group_name = "kv-demo-rg"
+location            = "East US"
+key_vault_name      = "kvdemosecretvault"
+tenant_id           = "your-tenant-id"
+secret_name         = "demoSecret"
+secret_value        = "s3cr3tPa$$w0rd"
